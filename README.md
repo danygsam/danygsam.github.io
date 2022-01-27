@@ -10,4 +10,4 @@
 > last updated on 1/27/2022
 
 ------
-and one more thing, the cipher is base64 decoded
+and one more thing, the cipher is base64 encoded
