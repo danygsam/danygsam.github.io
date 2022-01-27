@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 #### 👋 Hi, I’m @danygsam
-#### 👀 I’m interested in recent tech and frameworks
-#### 🌱 I’m currently learning somrthing new
-#### 📫 You can reach me by the twitter account or with my website
+
+## 👀 I’m just a normal kid
+#### 🌱 I’m currently trying to learn something new !
+#### 📫 And this website is mine
 #### 😊 See you there...
